@@ -1,0 +1,484 @@
+INSERT INTO `cities` VALUES ('1','1','آذرشهر','Azarshahr','37.75888900','45.97833300');
+INSERT INTO `cities` VALUES ('2','1','اسکو','Osku','37.91583300','46.12361100');
+INSERT INTO `cities` VALUES ('3','1','اهر','Ahar','38.48943050','47.06835750');
+INSERT INTO `cities` VALUES ('4','1','بستان آباد','Bostanabad','37.85000000','46.83333300');
+INSERT INTO `cities` VALUES ('5','1','بناب','Bonab','37.34027800','46.05611100');
+INSERT INTO `cities` VALUES ('6','1','تبریز','Tabriz','38.06666700','46.30000000');
+INSERT INTO `cities` VALUES ('7','1','جلفا','Jolfa','38.94027800','45.63083300');
+INSERT INTO `cities` VALUES ('8','1','چار اویماق','Charuymaq','37.12990520','47.02456860');
+INSERT INTO `cities` VALUES ('9','1','سراب','Sarab','37.94083300','47.53666700');
+INSERT INTO `cities` VALUES ('10','1','شبستر','Shabestar','38.18027800','45.70277800');
+INSERT INTO `cities` VALUES ('11','1','عجبشیر','Ajab Shir','37.47750000','45.89416700');
+
+
+
+
+INSERT INTO `cities` VALUES ('1','1','آذرشهر',
+INSERT INTO `cities` VALUES ('2','1','اسکو',
+INSERT INTO `cities` VALUES ('3','1','اهر',
+INSERT INTO `cities` VALUES ('4','1','بستان آباد',
+INSERT INTO `cities` VALUES ('5','1','بناب',
+INSERT INTO `cities` VALUES ('6','1','تبریز',
+INSERT INTO `cities` VALUES ('7','1','جلفا',
+INSERT INTO `cities` VALUES ('8','1','چار اویماق',
+INSERT INTO `cities` VALUES ('9','1','سراب',
+INSERT INTO `cities` VALUES ('10','1','شبستر',
+INSERT INTO `cities` VALUES ('11','1','عجبشیر',
+INSERT INTO `cities` VALUES ('12','1','کلیبر',
+INSERT INTO `cities` VALUES ('13','1','مراغه',
+INSERT INTO `cities` VALUES ('14','1','مرند',
+INSERT INTO `cities` VALUES ('15','1','ملکان',
+INSERT INTO `cities` VALUES ('16','1','میانه',
+INSERT INTO `cities` VALUES ('17','1','ورزقان',
+INSERT INTO `cities` VALUES ('18','1','هریس',
+INSERT INTO `cities` VALUES ('19','1','هشترود',
+INSERT INTO `cities` VALUES ('20','2','ارومیه',
+INSERT INTO `cities` VALUES ('21','2','اشنویه',
+INSERT INTO `cities` VALUES ('22','2','بوکان',
+INSERT INTO `cities` VALUES ('23','2','پیرانشهر',
+INSERT INTO `cities` VALUES ('24','2','تکاب',
+INSERT INTO `cities` VALUES ('25','2','چالدران',
+INSERT INTO `cities` VALUES ('26','2','خوی',
+INSERT INTO `cities` VALUES ('27','2','سردشت',
+INSERT INTO `cities` VALUES ('28','2','سلماس',
+INSERT INTO `cities` VALUES ('29','2','شاهین دژ',
+INSERT INTO `cities` VALUES ('30','2','ماکو',
+INSERT INTO `cities` VALUES ('31','2','مهاباد',
+INSERT INTO `cities` VALUES ('32','2','میاندوآب',
+INSERT INTO `cities` VALUES ('33','2','نقده',
+INSERT INTO `cities` VALUES ('34','3','اردبیل',
+INSERT INTO `cities` VALUES ('35','3','بیله سوار',
+INSERT INTO `cities` VALUES ('36','3','پارس آباد',
+INSERT INTO `cities` VALUES ('37','3','خلخال',
+INSERT INTO `cities` VALUES ('38','3','کوثر',
+INSERT INTO `cities` VALUES ('39','3','گرمی',
+INSERT INTO `cities` VALUES ('40','3','مشگین',
+INSERT INTO `cities` VALUES ('41','3','نمین',
+INSERT INTO `cities` VALUES ('42','3','نیر',
+INSERT INTO `cities` VALUES ('43','4','آران و بیدگل',
+INSERT INTO `cities` VALUES ('44','4','اردستان',
+INSERT INTO `cities` VALUES ('45','4','اصفهان',
+INSERT INTO `cities` VALUES ('46','4','برخوار و میمه',
+INSERT INTO `cities` VALUES ('47','4','تیران و کرون',
+INSERT INTO `cities` VALUES ('48','4','چادگان','Chadegan','
+INSERT INTO `cities` VALUES ('49','4','خمینی شهر','Khomeyni Shahr','
+INSERT INTO `cities` VALUES ('50','4','خوانسار','Khvansar','
+INSERT INTO `cities` VALUES ('51','4','سمیرم','Semirom','
+INSERT INTO `cities` VALUES ('52','4','شاهین شهر و میمه','
+INSERT INTO `cities` VALUES ('53','4','شهر رضا','Shahreza','
+INSERT INTO `cities` VALUES ('54','4','دهاقان','Dehaqan','
+INSERT INTO `cities` VALUES ('55','4','فریدن','Faridan','
+INSERT INTO `cities` VALUES ('56','4','فریدون شهر','Fereydunshahr','
+INSERT INTO `cities` VALUES ('57','4','فلاورجان','Falavarjan','
+INSERT INTO `cities` VALUES ('58','4','کاشان','Kashan','
+INSERT INTO `cities` VALUES ('59','4','گلپایگان','Golpayegan','
+INSERT INTO `cities` VALUES ('60','4','لنجان','Lenjan','
+INSERT INTO `cities` VALUES ('61','4','مبارکه','Mobarakeh','
+INSERT INTO `cities` VALUES ('62','4','نائین','Nain','
+INSERT INTO `cities` VALUES ('63','4','نجف آباد','Najafabad','
+INSERT INTO `cities` VALUES ('64','4','نطنز','Natanz','
+INSERT INTO `cities` VALUES ('65','5','ساوجبلاق','Savojbolagh','
+INSERT INTO `cities` VALUES ('66','5','کرج','Karaj','
+INSERT INTO `cities` VALUES ('67','5','نظرآباد','Nazarabad','
+INSERT INTO `cities` VALUES ('68','5','طالقان','Taleqan','
+INSERT INTO `cities` VALUES ('69','6','آبدانان','Abdanan','
+INSERT INTO `cities` VALUES ('70','6','ایلام','Ilam','
+INSERT INTO `cities` VALUES ('71','6','ایوان','Eyvan','
+INSERT INTO `cities` VALUES ('72','6','دره شهر','Darreh Shahr','
+INSERT INTO `cities` VALUES ('73','6','دهلران','Dehloran','
+INSERT INTO `cities` VALUES ('74','6','شیران و چرداول','Chardavol','
+INSERT INTO `cities` VALUES ('75','6','مهران','Mehran','
+INSERT INTO `cities` VALUES ('76','7','بوشهر','Bushehr','
+INSERT INTO `cities` VALUES ('77','7','تنگستان','Tangestan','
+INSERT INTO `cities` VALUES ('78','7','جم','Jam','
+INSERT INTO `cities` VALUES ('79','7','دشتستان','Dashtestan','
+INSERT INTO `cities` VALUES ('80','7','دشتی','Dashti','
+INSERT INTO `cities` VALUES ('81','7','دیر','Deyr','
+INSERT INTO `cities` VALUES ('82','7','دیلم','Deylam','
+INSERT INTO `cities` VALUES ('83','7','کنگان','Kangan','
+INSERT INTO `cities` VALUES ('84','7','گناوه','Ganaveh','
+INSERT INTO `cities` VALUES ('85','8','اسلام شهر','Eslamshahr','
+INSERT INTO `cities` VALUES ('86','8','پاکدشت', null,'
+INSERT INTO `cities` VALUES ('87','8','تهران', null,'
+INSERT INTO `cities` VALUES ('88','8','دماوند', null,'
+INSERT INTO `cities` VALUES ('89','8','رباط کریم', null,'
+INSERT INTO `cities` VALUES ('90','8','ری', null,'
+INSERT INTO `cities` VALUES ('91','8','شمیرانات', null,'
+INSERT INTO `cities` VALUES ('92','8','شهریار', null,'
+INSERT INTO `cities` VALUES ('93','8','فیروزکوه', null,'
+INSERT INTO `cities` VALUES ('94','8','ورامین', null,'
+INSERT INTO `cities` VALUES ('95','9','اردل', null,'
+INSERT INTO `cities` VALUES ('96','9','بروجن', null,'
+INSERT INTO `cities` VALUES ('97','9','شهرکرد', null,'
+INSERT INTO `cities` VALUES ('98','9','فارسان', null,'
+INSERT INTO `cities` VALUES ('99','9','کوهرنگ', null,'
+INSERT INTO `cities` VALUES ('100','9','لردگان', null,'
+INSERT INTO `cities` VALUES ('101','10','بیرجند', null,'
+INSERT INTO `cities` VALUES ('102','10','درمیان', null,'
+INSERT INTO `cities` VALUES ('103','10','سرایان', null,'
+INSERT INTO `cities` VALUES ('104','10','سر بیشه', null,'
+INSERT INTO `cities` VALUES ('105','10','فردوس', null,'
+INSERT INTO `cities` VALUES ('106','10','قائن', null,'
+INSERT INTO `cities` VALUES ('107','10','نهبندان', null,'
+INSERT INTO `cities` VALUES ('108','11','برد سکن', null,'
+INSERT INTO `cities` VALUES ('109','11','بجستان', null,'
+INSERT INTO `cities` VALUES ('110','11','تایباد', null,'
+INSERT INTO `cities` VALUES ('111','11','تحت ج
+INSERT INTO `cities` VALUES ('112','11','تربت جام', null,'
+INSERT INTO `cities` VALUES ('113','11','تربت حیدریه', null,'
+INSERT INTO `cities` VALUES ('114','11','چناران', null,'
+INSERT INTO `cities` VALUES ('115','11','جغتای', null,'
+INSERT INTO `cities` VALUES ('116','11','جوین', null,'
+INSERT INTO `cities` VALUES ('117','11','خلیل آباد', null,'
+INSERT INTO `cities` VALUES ('118','11','خواف', null,'
+INSERT INTO `cities` VALUES ('119','11','درگز', null,'
+INSERT INTO `cities` VALUES ('120','11','رشتخوار', null,'
+INSERT INTO `cities` VALUES ('121','11','زاوه', null,'
+INSERT INTO `cities` VALUES ('122','11','سبزوار', null,'
+INSERT INTO `cities` VALUES ('123','11','سرخس', null,'
+INSERT INTO `cities` VALUES ('124','11','فریمان', null,'
+INSERT INTO `cities` VALUES ('125','11','قوچان', null,'
+INSERT INTO `cities` VALUES ('126','11','طرقبه شاندیز', null,'
+INSERT INTO `cities` VALUES ('127','11','کاشمر', null,'
+INSERT INTO `cities` VALUES ('128','11','کلات', null,'
+INSERT INTO `cities` VALUES ('129','11','گناباد', null,'
+INSERT INTO `cities` VALUES ('130','11','مشهد', null,'
+INSERT INTO `cities` VALUES ('131','11','مه ولات', null,'
+INSERT INTO `cities` VALUES ('132','11','نیشابور', null,'
+INSERT INTO `cities` VALUES ('133','12','اسفراین', null,'
+INSERT INTO `cities` VALUES ('134','12','بجنورد', null,'
+INSERT INTO `cities` VALUES ('135','12','جاجرم', null,'
+INSERT INTO `cities` VALUES ('136','12','شیروان', null,'
+INSERT INTO `cities` VALUES ('137','12','فاروج', null,'
+INSERT INTO `cities` VALUES ('138','12','مانه و سملقان', null,'
+INSERT INTO `cities` VALUES ('139','13','آبادان', null,'
+INSERT INTO `cities` VALUES ('140','13','امیدیه', null,'
+INSERT INTO `cities` VALUES ('141','13','اندیمشک', null,'
+INSERT INTO `cities` VALUES ('142','13','اهواز', null,'
+INSERT INTO `cities` VALUES ('143','13','ایذه', null,'
+INSERT INTO `cities` VALUES ('144','13','باغ ملک', null,'
+INSERT INTO `cities` VALUES ('145','13','بندرماهشهر', null,'
+INSERT INTO `cities` VALUES ('146','13','بهبهان', null,'
+INSERT INTO `cities` VALUES ('147','13','خرمشهر', null,'
+INSERT INTO `cities` VALUES ('148','13','دزفول', null,'
+INSERT INTO `cities` VALUES ('149','13','دشت آزادگان', null,'
+INSERT INTO `cities` VALUES ('150','13','رامشیر', null,'
+INSERT INTO `cities` VALUES ('151','13','رامهرمز', null,'
+INSERT INTO `cities` VALUES ('152','13','شادگان', null,'
+INSERT INTO `cities` VALUES ('153','13','شوش', null,'
+INSERT INTO `cities` VALUES ('154','13','شوشتر', null,'
+INSERT INTO `cities` VALUES ('155','13','گتوند', null,'
+INSERT INTO `cities` VALUES ('156','13','لالی', null,'
+INSERT INTO `cities` VALUES ('157','13','مسجد سلیمان', null,'
+INSERT INTO `cities` VALUES ('158','13','هندیجان', null,'
+INSERT INTO `cities` VALUES ('159','14','ابهر', null,'
+INSERT INTO `cities` VALUES ('160','14','ایجرود', null,'
+INSERT INTO `cities` VALUES ('161','14','خدابنده', null,'
+INSERT INTO `cities` VALUES ('162','14','خرمدره', null,'
+INSERT INTO `cities` VALUES ('163','14','زنجان', null,'
+INSERT INTO `cities` VALUES ('164','14','طارم', null,'
+INSERT INTO `cities` VALUES ('165','14','ماه نشان', null,'
+INSERT INTO `cities` VALUES ('166','15','دامغان', null,'
+INSERT INTO `cities` VALUES ('167','15','سمنان', null,'
+INSERT INTO `cities` VALUES ('168','15','شاهرود', null,'
+INSERT INTO `cities` VALUES ('169','15','گرمسار', null,'
+INSERT INTO `cities` VALUES ('170','15','مهدی شهر', null,'
+INSERT INTO `cities` VALUES ('171','16','ایرانشهر', null,'
+INSERT INTO `cities` VALUES ('172','16','چابهار', null,'
+INSERT INTO `cities` VALUES ('173','16','خاش', null,'
+INSERT INTO `cities` VALUES ('174','16','دلگان', null,'
+INSERT INTO `cities` VALUES ('175','16','زابل', null,'
+INSERT INTO `cities` VALUES ('176','16','زاهدان', null,'
+INSERT INTO `cities` VALUES ('177','16','زهک', null,'
+INSERT INTO `cities` VALUES ('178','16','سراوان', null,'
+INSERT INTO `cities` VALUES ('179','16','سرباز', null,'
+INSERT INTO `cities` VALUES ('180','16','کنارک', null,'
+INSERT INTO `cities` VALUES ('181','16','نیکشهر', null,'
+INSERT INTO `cities` VALUES ('182','17','آباده', null,'
+INSERT INTO `cities` VALUES ('183','17','ارسنجان', null,'
+INSERT INTO `cities` VALUES ('184','17','استهبان', null,'
+INSERT INTO `cities` VALUES ('185','17','اقلید', null,'
+INSERT INTO `cities` VALUES ('186','17','بوانات', null,'
+INSERT INTO `cities` VALUES ('187','17','پاسارگاد', null,'
+INSERT INTO `cities` VALUES ('188','17','جهرم', null,'
+INSERT INTO `cities` VALUES ('189','17','خرم بید', null,'
+INSERT INTO `cities` VALUES ('190','17','خنج', null,'
+INSERT INTO `cities` VALUES ('191','17','داراب', null,'
+INSERT INTO `cities` VALUES ('192','17','زرین دشت', null,'
+INSERT INTO `cities` VALUES ('193','17','سپیدان', null,'
+INSERT INTO `cities` VALUES ('194','17','شیراز', null,'
+INSERT INTO `cities` VALUES ('195','17','فراشبند', null,'
+INSERT INTO `cities` VALUES ('196','17','فسا', null,'
+INSERT INTO `cities` VALUES ('197','17','فیروزآباد', null,'
+INSERT INTO `cities` VALUES ('198','17','قیر و کارزین', null,'
+INSERT INTO `cities` VALUES ('199','17','کازرون', null,'
+INSERT INTO `cities` VALUES ('200','17','لارستان', null,'
+INSERT INTO `cities` VALUES ('201','17','لامرد', null,'
+INSERT INTO `cities` VALUES ('202','17','مرودشت', null,'
+INSERT INTO `cities` VALUES ('203','17','ممسنی', null,'
+INSERT INTO `cities` VALUES ('204','17','مهر', null,'
+INSERT INTO `cities` VALUES ('205','17','نی ریز', null,'
+INSERT INTO `cities` VALUES ('206','18','آبیک', null,'
+INSERT INTO `cities` VALUES ('207','18','البرز', null,'
+INSERT INTO `cities` VALUES ('208','18','بوئین زهرا', null,'
+INSERT INTO `cities` VALUES ('209','18','تاکستان', null,'
+INSERT INTO `cities` VALUES ('210','18','قزوین', null,'
+INSERT INTO `cities` VALUES ('211','19','قم', null,'
+INSERT INTO `cities` VALUES ('212','20','بانه', null,'
+INSERT INTO `cities` VALUES ('213','20','بیجار', null,'
+INSERT INTO `cities` VALUES ('214','20','دیواندره', null,'
+INSERT INTO `cities` VALUES ('215','20','سروآباد', null,'
+INSERT INTO `cities` VALUES ('216','20','سقز', null,'
+INSERT INTO `cities` VALUES ('217','20','سنندج', null,'
+INSERT INTO `cities` VALUES ('218','20','قروه', null,'
+INSERT INTO `cities` VALUES ('219','20','کامیاران', null,'
+INSERT INTO `cities` VALUES ('220','20','مریوان', null,'
+INSERT INTO `cities` VALUES ('221','21','بافت', null,'
+INSERT INTO `cities` VALUES ('222','21','بردسیر', null,'
+INSERT INTO `cities` VALUES ('223','21','بم', null,'
+INSERT INTO `cities` VALUES ('224','21','جیرفت', null,'
+INSERT INTO `cities` VALUES ('225','21','راور', null,'
+INSERT INTO `cities` VALUES ('226','21','رفسنجان', null,'
+INSERT INTO `cities` VALUES ('227','21','رودبار جنوب', null,'
+INSERT INTO `cities` VALUES ('228','21','زرند', null,'
+INSERT INTO `cities` VALUES ('229','21','سیرجان', null,'
+INSERT INTO `cities` VALUES ('230','21','شهر بابک', null,'
+INSERT INTO `cities` VALUES ('231','21','عنبرآباد', null,'
+INSERT INTO `cities` VALUES ('232','21','قلعه گنج', null,'
+INSERT INTO `cities` VALUES ('233','21','کرمان', null,'
+INSERT INTO `cities` VALUES ('234','21','کوهبنان', null,'
+INSERT INTO `cities` VALUES ('235','21','کهنوج', null,'
+INSERT INTO `cities` VALUES ('236','21','منوجان', null,'
+INSERT INTO `cities` VALUES ('237','22','اسلام آباد غرب', null,'
+INSERT INTO `cities` VALUES ('238','22','پاوه', null,'
+INSERT INTO `cities` VALUES ('239','22','ثلاث باباجانی', null,'
+INSERT INTO `cities` VALUES ('240','22','جوانرود', null,'
+INSERT INTO `cities` VALUES ('241','22','دالاهو', null,'
+INSERT INTO `cities` VALUES ('242','22','روانسر', null,'
+INSERT INTO `cities` VALUES ('243','22','سرپل ذهاب', null,'
+INSERT INTO `cities` VALUES ('244','22','سنقر', null,'
+INSERT INTO `cities` VALUES ('245','22','صحنه', null,'
+INSERT INTO `cities` VALUES ('246','22','قصر شیرین', null,'
+INSERT INTO `cities` VALUES ('247','22','کرمانشاه', null,'
+INSERT INTO `cities` VALUES ('248','22','کنگاور', null,'
+INSERT INTO `cities` VALUES ('249','22','گیلان غرب', null,'
+INSERT INTO `cities` VALUES ('250','22','هرسین', null,'
+INSERT INTO `cities` VALUES ('251','23','بویر احمد', null,'
+INSERT INTO `cities` VALUES ('252','23','بهمئی', 
+INSERT INTO `cities` VALUES ('253','23','دنا',
+INSERT INTO `cities` VALUES ('254','23','کهگیلویه', 
+INSERT INTO `cities` VALUES ('255','23','گچساران', 
+INSERT INTO `cities` VALUES ('256','24','آزادشهر', 
+INSERT INTO `cities` VALUES ('257','24','آق قلا', 
+INSERT INTO `cities` VALUES ('258','24','بندر گز', 
+INSERT INTO `cities` VALUES ('259','24','بندر ترکمن', 
+INSERT INTO `cities` VALUES ('260','24','رامیان', 
+INSERT INTO `cities` VALUES ('261','24','علی آباد', 
+INSERT INTO `cities` VALUES ('262','24','کرد کوی', 
+INSERT INTO `cities` VALUES ('263','24','کلاله', 
+INSERT INTO `cities` VALUES ('264','24','گرگان', 
+INSERT INTO `cities` VALUES ('265','24','گنبد کاووس', 
+INSERT INTO `cities` VALUES ('266','24','مینو دشت', 
+INSERT INTO `cities` VALUES ('267','25','آستارا', 
+INSERT INTO `cities` VALUES ('268','25','آستانه اشرفیه', 
+INSERT INTO `cities` VALUES ('269','25','املش', 
+INSERT INTO `cities` VALUES ('270','25','بندر انزلی', 
+INSERT INTO `cities` VALUES ('271','25','رشت', 
+INSERT INTO `cities` VALUES ('272','25','رضوانشهر', 
+INSERT INTO `cities` VALUES ('273','25','رودبار', 
+INSERT INTO `cities` VALUES ('274','25','رودسر', 
+INSERT INTO `cities` VALUES ('275','25','سیاهکل', 
+INSERT INTO `cities` VALUES ('276','25','شفت', 
+INSERT INTO `cities` VALUES ('277','25','صومعه سرا', 
+INSERT INTO `cities` VALUES ('278','25','طوالش', 
+INSERT INTO `cities` VALUES ('279','25','فومن', 
+INSERT INTO `cities` VALUES ('280','25','لاهیجان', 
+INSERT INTO `cities` VALUES ('281','25','لنگرود', 
+INSERT INTO `cities` VALUES ('282','25','ماسال', 
+INSERT INTO `cities` VALUES ('283','26','ازنا', 
+INSERT INTO `cities` VALUES ('284','26','الیگودرز', 
+INSERT INTO `cities` VALUES ('285','26','بروجرد', 
+INSERT INTO `cities` VALUES ('286','26','پلدختر', 
+INSERT INTO `cities` VALUES ('287','26','خرم آباد', 
+INSERT INTO `cities` VALUES ('288','26','دورود', 
+INSERT INTO `cities` VALUES ('289','17','لامرد', 
+INSERT INTO `cities` VALUES ('290','17','مرودشت', 
+INSERT INTO `cities` VALUES ('291','17','ممسنی', 
+INSERT INTO `cities` VALUES ('292','17','مهر', 
+INSERT INTO `cities` VALUES ('293','17','نی ریز', 
+INSERT INTO `cities` VALUES ('294','18','آبیک', 
+INSERT INTO `cities` VALUES ('295','18','البرز', 
+INSERT INTO `cities` VALUES ('296','18','بوئین زهرا', 
+INSERT INTO `cities` VALUES ('297','18','تاکستان', 
+INSERT INTO `cities` VALUES ('298','18','قزوین', 
+INSERT INTO `cities` VALUES ('299','19','قم', 
+INSERT INTO `cities` VALUES ('300','20','بانه', 
+INSERT INTO `cities` VALUES ('301','20','بیجار', 
+INSERT INTO `cities` VALUES ('302','20','دیواندره', 
+INSERT INTO `cities` VALUES ('303','20','سروآباد', 
+INSERT INTO `cities` VALUES ('304','20','سقز', 
+INSERT INTO `cities` VALUES ('305','20','سنندج', 
+INSERT INTO `cities` VALUES ('306','20','قروه', 
+INSERT INTO `cities` VALUES ('307','20','کامیاران', 
+INSERT INTO `cities` VALUES ('308','20','مریوان', 
+INSERT INTO `cities` VALUES ('309','21','بافت', 
+INSERT INTO `cities` VALUES ('310','21','بردسیر', 
+INSERT INTO `cities` VALUES ('311','21','بم', 
+INSERT INTO `cities` VALUES ('312','21','جیرفت', 
+INSERT INTO `cities` VALUES ('313','21','راور', 
+INSERT INTO `cities` VALUES ('314','21','رفسنجان', 
+INSERT INTO `cities` VALUES ('315','21','رودبار جنوب', 
+INSERT INTO `cities` VALUES ('316','21','زرند', 
+INSERT INTO `cities` VALUES ('317','21','سیرجان', 
+INSERT INTO `cities` VALUES ('318','21','شهر بابک', 
+INSERT INTO `cities` VALUES ('319','21','عنبرآباد', 
+INSERT INTO `cities` VALUES ('320','21','قلعه گنج', 
+INSERT INTO `cities` VALUES ('321','21','کرمان', 
+INSERT INTO `cities` VALUES ('322','21','کوهبنان', 
+INSERT INTO `cities` VALUES ('323','21','کهنوج', 
+INSERT INTO `cities` VALUES ('324','21','منوجان', 
+INSERT INTO `cities` VALUES ('325','22','اسلام آباد غرب', 
+INSERT INTO `cities` VALUES ('326','22','پاوه', 
+INSERT INTO `cities` VALUES ('327','22','ثلاث باباجانی', 
+INSERT INTO `cities` VALUES ('328','22','جوانرود', 
+INSERT INTO `cities` VALUES ('329','22','دالاهو', 
+INSERT INTO `cities` VALUES ('330','22','روانسر', 
+INSERT INTO `cities` VALUES ('332','22','سنقر', 
+INSERT INTO `cities` VALUES ('333','22','صحنه', 
+INSERT INTO `cities` VALUES ('334','22','قصر شیرین', 
+INSERT INTO `cities` VALUES ('335','22','کرمانشاه', 
+INSERT INTO `cities` VALUES ('336','22','کنگاور', 
+INSERT INTO `cities` VALUES ('337','22','گیلان غرب', 
+INSERT INTO `cities` VALUES ('338','22','هرسین', 
+INSERT INTO `cities` VALUES ('339','23','بویر احمد', 
+INSERT INTO `cities` VALUES ('341','23','دنا', 
+INSERT INTO `cities` VALUES ('343','23','گچساران', 
+INSERT INTO `cities` VALUES ('344','24','آزادشهر', 
+INSERT INTO `cities` VALUES ('345','24','آق قلا', 
+INSERT INTO `cities` VALUES ('346','24','بندر گز', 
+INSERT INTO `cities` VALUES ('347','24','بندر ترکمن', 
+INSERT INTO `cities` VALUES ('348','24','رامیان', 
+INSERT INTO `cities` VALUES ('349','24','علی آباد', 
+INSERT INTO `cities` VALUES ('350','24','کرد کوی', 
+INSERT INTO `cities` VALUES ('351','24','کلاله', 
+INSERT INTO `cities` VALUES ('352','24','گرگان', 
+INSERT INTO `cities` VALUES ('353','24','گنبد کاووس', 
+INSERT INTO `cities` VALUES ('354','24','مینو دشت', 
+INSERT INTO `cities` VALUES ('355','25','آستارا', 
+INSERT INTO `cities` VALUES ('356','25','آستانه اشرفیه', 
+INSERT INTO `cities` VALUES ('357','25','املش', 
+'id'=>'358','ostan_id'=>'25','shahrestan'=>'بندر انزلی', 
+'id'=>'359','ostan_id'=>'25','shahrestan'=>'رشت', 
+'id'=>'360','ostan_id'=>'25','shahrestan'=>'رضوانشهر', 
+'id'=>'361','ostan_id'=>'25','shahrestan'=>'رودبار', 
+'id'=>'362','ostan_id'=>'25','shahrestan'=>'رودسر', 
+'id'=>'363','ostan_id'=>'25','shahrestan'=>'سیاهکل', 
+'id'=>'364','ostan_id'=>'25','shahrestan'=>'شفت', 
+'id'=>'365','ostan_id'=>'25','shahrestan'=>'صومعه سرا', 
+'id'=>'366','ostan_id'=>'25','shahrestan'=>'طوالش', 
+'id'=>'367','ostan_id'=>'25','shahrestan'=>'فومن', 
+'id'=>'368','ostan_id'=>'25','shahrestan'=>'لاهیجان', 
+'id'=>'369','ostan_id'=>'25','shahrestan'=>'لنگرود', 
+'id'=>'370','ostan_id'=>'25','shahrestan'=>'ماسال', 
+'id'=>'371','ostan_id'=>'26','shahrestan'=>'ازنا', 
+'id'=>'372','ostan_id'=>'26','shahrestan'=>'الیگودرز', 
+'id'=>'373','ostan_id'=>'26','shahrestan'=>'بروجرد', 
+'id'=>'374','ostan_id'=>'26','shahrestan'=>'پلدختر', 
+'id'=>'375','ostan_id'=>'26','shahrestan'=>'خرم آباد', 
+'id'=>'376','ostan_id'=>'26','shahrestan'=>'دورود', 
+'id'=>'377','ostan_id'=>'26','shahrestan'=>'دلفان', 
+'id'=>'378','ostan_id'=>'26','shahrestan'=>'سلسله', 
+'id'=>'379','ostan_id'=>'26','shahrestan'=>'کوهدشت', 
+'id'=>'380','ostan_id'=>'26','shahrestan'=>'الشتر', 
+'id'=>'381','ostan_id'=>'26','shahrestan'=>'نورآباد', 
+'id'=>'382','ostan_id'=>'27','shahrestan'=>'آمل', 
+'id'=>'383','ostan_id'=>'27','shahrestan'=>'بابل', 
+'id'=>'384','ostan_id'=>'27','shahrestan'=>'بابلسر', 
+'id'=>'385','ostan_id'=>'27','shahrestan'=>'بهشهر', 
+'id'=>'386','ostan_id'=>'27','shahrestan'=>'تنکابن', 
+'id'=>'387','ostan_id'=>'27','shahrestan'=>'جویبار', 
+'id'=>'388','ostan_id'=>'27','shahrestan'=>'چالوس', 
+'id'=>'389','ostan_id'=>'27','shahrestan'=>'رامسر', 
+'id'=>'390','ostan_id'=>'27','shahrestan'=>'ساری', 
+'id'=>'391','ostan_id'=>'27','shahrestan'=>'سوادکوه', 
+'id'=>'392','ostan_id'=>'27','shahrestan'=>'قائم شهر', 
+'id'=>'393','ostan_id'=>'27','shahrestan'=>'گلوگاه', 
+'id'=>'394','ostan_id'=>'27','shahrestan'=>'محمود آباد', 
+'id'=>'395','ostan_id'=>'27','shahrestan'=>'نکا', 
+'id'=>'396','ostan_id'=>'27','shahrestan'=>'نور', 
+'id'=>'397','ostan_id'=>'27','shahrestan'=>'نوشهر', 
+'id'=>'398','ostan_id'=>'27','shahrestan'=>'فریدونکنار', 
+'id'=>'399','ostan_id'=>'28','shahrestan'=>'آشتیان', 
+'id'=>'400','ostan_id'=>'28','shahrestan'=>'اراک', 
+'id'=>'401','ostan_id'=>'28','shahrestan'=>'تفرش', 
+'id'=>'402','ostan_id'=>'28','shahrestan'=>'خمین', 
+'id'=>'403','ostan_id'=>'28','shahrestan'=>'دلیجان', 
+'id'=>'404','ostan_id'=>'28','shahrestan'=>'زرندیه', 
+'id'=>'405','ostan_id'=>'28','shahrestan'=>'ساوه', 
+'id'=>'406','ostan_id'=>'28','shahrestan'=>'شازند', 
+'id'=>'407','ostan_id'=>'28','shahrestan'=>'کمیجان', 
+'id'=>'408','ostan_id'=>'28','shahrestan'=>'محلات', 
+'id'=>'409','ostan_id'=>'29','shahrestan'=>'بندرعباس', 
+'id'=>'410','ostan_id'=>'29','shahrestan'=>'میناب', 
+'id'=>'411','ostan_id'=>'29','shahrestan'=>'بندر لنگه', 
+'id'=>'412','ostan_id'=>'29','shahrestan'=>'رودان-دهبارز', 
+'id'=>'413','ostan_id'=>'29','shahrestan'=>'جاسک', 
+'id'=>'414','ostan_id'=>'29','shahrestan'=>'قشم', 
+'id'=>'415','ostan_id'=>'29','shahrestan'=>'حاجی آباد', 
+'id'=>'416','ostan_id'=>'29','shahrestan'=>'ابوموسی', 
+'id'=>'417','ostan_id'=>'29','shahrestan'=>'بستک', 
+'id'=>'418','ostan_id'=>'29','shahrestan'=>'گاوبندی', 
+'id'=>'419','ostan_id'=>'29','shahrestan'=>'خمیر', 
+'id'=>'420','ostan_id'=>'30','shahrestan'=>'اسدآباد', 
+'id'=>'421','ostan_id'=>'30','shahrestan'=>'بهار', 
+'id'=>'422','ostan_id'=>'30','shahrestan'=>'تویسرکان', 
+'id'=>'423','ostan_id'=>'30','shahrestan'=>'رزن', 
+'id'=>'424','ostan_id'=>'30','shahrestan'=>'کبودر آهنگ', 
+'id'=>'425','ostan_id'=>'30','shahrestan'=>'ملایر', 
+'id'=>'426','ostan_id'=>'30','shahrestan'=>'نهاوند', 
+'id'=>'427','ostan_id'=>'30','shahrestan'=>'همدان', 
+'id'=>'428','ostan_id'=>'31','shahrestan'=>'ابرکوه', 
+'id'=>'429','ostan_id'=>'31','shahrestan'=>'اردکان', 
+'id'=>'430','ostan_id'=>'31','shahrestan'=>'بافق', 
+'id'=>'431','ostan_id'=>'31','shahrestan'=>'تفت', 
+'id'=>'432','ostan_id'=>'31','shahrestan'=>'خاتم', 
+'id'=>'433','ostan_id'=>'31','shahrestan'=>'صدوق', 
+'id'=>'434','ostan_id'=>'31','shahrestan'=>'طبس', 
+'id'=>'435','ostan_id'=>'31','shahrestan'=>'مهریز', 
+'id'=>'436','ostan_id'=>'31','shahrestan'=>'میبد', 
+'id'=>'437','ostan_id'=>'31','shahrestan'=>'یزد', 
+'id'=>'438','ostan_id'=>'8','shahrestan'=>'قرچک', 
+'id'=>'439','ostan_id'=>'8','shahrestan'=>'گلستان', 
+'id'=>'440','ostan_id'=>'8','shahrestan'=>'قدس', 
+'id'=>'441','ostan_id'=>'8','shahrestan'=>'ملارد', 
+'id'=>'442','ostan_id'=>'8','shahrestan'=>'نسیم‌شهر', 
+'id'=>'443','ostan_id'=>'8','shahrestan'=>'اندیشه', 
+'id'=>'444','ostan_id'=>'8','shahrestan'=>'صالح‌آباد', 
+'id'=>'445','ostan_id'=>'8','shahrestan'=>'باقرشهر', 
+'id'=>'446','ostan_id'=>'8','shahrestan'=>'باغستان', 
+'id'=>'447','ostan_id'=>'8','shahrestan'=>'بومهن', 
+'id'=>'448','ostan_id'=>'8','shahrestan'=>'چهاردانگه', 
+'id'=>'449','ostan_id'=>'8','shahrestan'=>'پیشوا', 
+'id'=>'450','ostan_id'=>'8','shahrestan'=>'پردیس', 
+'id'=>'451','ostan_id'=>'8','shahrestan'=>'وحیدیه', 
+'id'=>'452','ostan_id'=>'8','shahrestan'=>'نصیرآباد', 
+'id'=>'453','ostan_id'=>'8','shahrestan'=>'فردوسیه', 
+'id'=>'454','ostan_id'=>'8','shahrestan'=>'حسن‌آباد', 
+'id'=>'455','ostan_id'=>'8','shahrestan'=>'رودهن', 
+'id'=>'456','ostan_id'=>'8','shahrestan'=>'شاهدشهر', 
+'id'=>'457','ostan_id'=>'8','shahrestan'=>'صباشهر', 
+'id'=>'458','ostan_id'=>'8','shahrestan'=>'صفادشت', 
+'id'=>'459','ostan_id'=>'8','shahrestan'=>'لواسان', 
+'id'=>'460','ostan_id'=>'8','shahrestan'=>'آبسرد', 
+'id'=>'461','ostan_id'=>'8','shahrestan'=>'شریف‌آباد', 
+'id'=>'462','ostan_id'=>'8','shahrestan'=>'کهریزک', 
+'id'=>'463','ostan_id'=>'8','shahrestan'=>'فشم',
+'id'=>'464','ostan_id'=>'8','shahrestan'=>'جوادآباد', 
+'id'=>'465','ostan_id'=>'8','shahrestan'=>'کیلان',
+'id'=>'466','ostan_id'=>'8','shahrestan'=>'آبعلی',
+'id'=>'467','ostan_id'=>'8','shahrestan'=>'ارجمند',
+'id'=>'468','ostan_id'=>'29''shahrestan'=>,'کیش',
+'id'=>'469','ostan_id'=>'29''shahrestan'=>,'لاوان',
+'id'=>'470','ostan_id'=>'29''shahrestan'=>,'پارسیان',
+'id'=>'471','ostan_id'=>'29''shahrestan'=>,'سیریک',
+'id'=>'472','ostan_id'=>'29''shahrestan'=>,'بشاگرد',
