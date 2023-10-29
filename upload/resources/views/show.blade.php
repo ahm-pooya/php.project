@@ -8,7 +8,7 @@
     <style>
         .image-container {
             display: flex;
-
+            flex-wrap: wrap;
         }
 
         .image-item img {
@@ -16,7 +16,6 @@
             padding: 10px;
 
         }
-
         .image-name {
             margin-top: 5px;
             margin-left: 10px;

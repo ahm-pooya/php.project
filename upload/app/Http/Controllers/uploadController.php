@@ -10,12 +10,7 @@ class uploadController extends Controller
 {
    public function index()
    {
-
-
       $data = Upload::all();
-
-
-
       return view('upload', compact('data'));
    }
 
@@ -23,7 +18,6 @@ class uploadController extends Controller
    {
 
       $name = request('field1');
-
       $path = $request->file('field2')->storeAs('public/images', $name);
 
       $url = new Upload();
@@ -32,14 +26,12 @@ class uploadController extends Controller
       $url->path = $path;
       $url->save();
 
-      return redirect()->back();
+      return redirect('upload');
    }
 
    public function show()
    {
-
       $data = Upload::all();
-
       return view('show', compact('data'));
    }
 }
