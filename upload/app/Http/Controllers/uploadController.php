@@ -17,12 +17,16 @@ class uploadController extends Controller
    public function store(Request $request)
    {
 
-      $name = request('field1');
-      $path = $request->file('field2')->storeAs('public/images', $name);
+      
+      $file = $request->file('uploadfile');
+      $name = time() . '.' . $file->getClientOriginalExtension();
+      $path = $file->storeAs('public/images', $name);
+      
 
       $url = new Upload();
 
-      $url->name = request('field1');
+      $url->namemahsol = request('namemahsol');
+      $url->nameaks = $name;
       $url->path = $path;
       $url->save();
 
@@ -34,4 +38,10 @@ class uploadController extends Controller
       $data = Upload::all();
       return view('show', compact('data'));
    }
+
+   public function test($id){
+
+      return Upload::all();
+   }
+
 }

@@ -88,10 +88,10 @@
             @csrf
 
             <label for="field1"><span>نام محصول <span class="required"></span></span>
-                <input type="text" class="input-field" name="field1" /></label>
+                <input type="text" class="input-field" name="namemahsol" /></label>
 
             <label for="field2"><span>آپلود <span class="required"></span></span>
-                <input type="file" class="input-field" name="field2" /></label>
+                <input type="file" class="input-field" name="uploadfile" /></label>
 
             <label><span> </span><input type="submit" value="ثبت" /></label>
 

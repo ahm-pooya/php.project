@@ -30,8 +30,8 @@
         @foreach ($data as $datas)
 
         <div class="image-item">
-            <img src="{{ asset('storage/images/'.$datas->name) }}" alt="Uploaded Image">
-            <p class="image-name">{{ $datas->name }}</p>
+            <img src="{{ asset('storage/images/'.$datas->nameaks) }}" alt="Uploaded Image">
+            <p class="image-name">{{ $datas->namemahsol }}</p>
             <p>{{$datas->getCreateAtShamsi()}}</p>
 
         </div>
